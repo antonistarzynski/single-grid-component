@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [click here](https://github.com/antonistarzynski/single-grid-component)
+- Live Site URL: [click here](https://antonistarzynski.github.io/single-grid-component/)
 
 
 ### Built with
@@ -31,7 +31,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Antek Starzynski](https://antoni.works)
+- Website - [antoni.works](https://antoni.works)
 - Frontend Mentor - [@antonistarzynski](https://www.frontendmentor.io/profile/antonistarzynski)
 - Instagram - [@antek.s](https://www.instagram.com/antek.s/)
 
